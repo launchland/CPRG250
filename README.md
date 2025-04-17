@@ -1,3 +1,3 @@
-# CPRG250 Database Project
+# CPRG250
 
-Youtube Link: 
+Database Modeling and Reporting Project Youtube: https://youtu.be/1lK29jInRJY
