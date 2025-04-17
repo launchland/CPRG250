@@ -1,3 +1,3 @@
-# CPRG250
+# CPRG250 Database Project
 
 Youtube Link: 
