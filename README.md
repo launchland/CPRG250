@@ -3,7 +3,8 @@
 Database Modelling and Reporting Project 
 Youtube Demo: https://youtu.be/1lK29jInRJY
 
-Desc: The purpose of this project was to transform business rules into a database system using Postgres
+**Desc:** The purpose of this project was to transform business rules into a database system using Postgres
+
 **Phase 1:** 
 - Normalization process
 - Connecting entities with M:M relationships (and resolving thru brdige tables)
