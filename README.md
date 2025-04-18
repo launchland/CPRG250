@@ -13,8 +13,8 @@ Youtube Demo: https://youtu.be/1lK29jInRJY
   
 **Phase 2:** 
 - SQL files which uses CREATE TABLE to make tables following Physical model
-- Generated sample data using ChatGPT (5000 students, 40 credentials, 200 courses)
-- Implemented python files which pulls sample data and imports into existing tables
+- Generated sample data (.csv) using ChatGPT (5000 students, 40 credentials, 200 courses)
+- Implemented Python file which pulls the sample data and populates existing tables
 - Using PostgreSQL
 
 **Phase 3:**
