@@ -1,0 +1,201 @@
+course_code,name,num_of_credits,credentialnum,prereq_course_code
+C0001,Synergistic human-resource help-desk,7,13,
+C0002,Decentralized contextually-based workforce,2,7,C0001
+C0003,Function-based explicit pricing structure,3,32,C0001
+C0004,Versatile full-range firmware,8,28,C0002
+C0005,Customizable 24hour moderator,9,7,C0001
+C0006,Centralized local challenge,2,39,C0003
+C0007,Phased 5thgeneration adapter,3,9,C0006
+C0008,Reduced 3rdgeneration service-desk,6,2,C0004
+C0009,Customizable modular framework,2,12,C0004
+C0010,Operative 24/7 product,3,4,C0001
+C0011,Horizontal hybrid time-frame,2,22,C0009
+C0012,Persevering dedicated orchestration,7,19,C0008
+C0013,Synchronized encompassing protocol,9,36,C0012
+C0014,Face-to-face systemic contingency,6,1,C0004
+C0015,Function-based mobile open architecture,2,14,C0013
+C0016,Total 6thgeneration superstructure,3,28,C0001
+C0017,Extended responsive hardware,1,39,C0003
+C0018,Business-focused eco-centric leverage,9,15,C0001
+C0019,Re-contextualized user-facing success,7,31,C0012
+C0020,Team-oriented multi-state architecture,9,18,C0013
+C0021,Universal heuristic Local Area Network,4,40,C0015
+C0022,Ergonomic local website,4,4,C0019
+C0023,User-centric logistical encoding,3,31,C0018
+C0024,Distributed motivating leverage,2,25,C0008
+C0025,Operative full-range functionalities,6,38,C0005
+C0026,Up-sized contextually-based productivity,3,18,C0008
+C0027,Seamless uniform concept,7,37,C0015
+C0028,Team-oriented zero-defect core,5,19,C0027
+C0029,Intuitive empowering orchestration,1,19,C0027
+C0030,Decentralized directional Local Area Network,9,10,C0021
+C0031,Down-sized executive archive,6,7,C0016
+C0032,Quality-focused demand-driven task-force,8,34,C0021
+C0033,Multi-tiered full-range policy,7,10,C0002
+C0034,Proactive didactic concept,3,29,C0009
+C0035,Profit-focused even-keeled methodology,1,10,C0019
+C0036,Managed global definition,6,37,C0017
+C0037,Universal human-resource flexibility,8,32,C0021
+C0038,Secured actuating task-force,6,40,C0027
+C0039,Diverse user-facing leverage,7,5,C0005
+C0040,Organic tangible adapter,4,15,C0025
+C0041,Triple-buffered motivating open architecture,3,23,C0010
+C0042,Multi-lateral leadingedge extranet,5,2,C0036
+C0043,Distributed executive artificial intelligence,2,16,C0022
+C0044,Realigned client-driven adapter,5,7,C0011
+C0045,Versatile dynamic intranet,2,22,C0041
+C0046,Optimized context-sensitive task-force,9,19,C0027
+C0047,Compatible logistical throughput,9,26,C0022
+C0048,Polarized modular Local Area Network,9,2,C0033
+C0049,Innovative multi-tasking architecture,1,16,C0010
+C0050,Digitized empowering concept,2,28,C0037
+C0051,Multi-tiered asynchronous Internet solution,1,19,C0042
+C0052,Fundamental multimedia task-force,3,40,C0033
+C0053,Digitized eco-centric function,2,14,C0044
+C0054,Robust even-keeled migration,6,36,C0047
+C0055,Balanced systemic circuit,2,26,C0047
+C0056,Inverse empowering middleware,3,1,C0036
+C0057,Object-based national capability,2,10,C0036
+C0058,Switchable object-oriented paradigm,6,21,C0011
+C0059,Function-based dynamic groupware,3,35,C0027
+C0060,Extended bandwidth-monitored Local Area Network,6,33,C0044
+C0061,Adaptive tangible attitude,9,12,C0039
+C0062,Diverse 24/7 help-desk,8,9,C0008
+C0063,De-engineered 24/7 attitude,3,22,C0034
+C0064,Public-key optimizing emulation,3,17,C0003
+C0065,Virtual tertiary collaboration,9,21,C0022
+C0066,Total local Graphic Interface,3,21,C0065
+C0067,De-engineered 24hour pricing structure,1,10,C0016
+C0068,Compatible transitional flexibility,4,16,C0044
+C0069,Stand-alone object-oriented function,6,2,C0042
+C0070,Optional user-facing initiative,2,16,C0069
+C0071,Polarized high-level Graphical User Interface,6,40,C0024
+C0072,Secured executive middleware,4,18,C0050
+C0073,Down-sized dedicated attitude,6,1,C0069
+C0074,Intuitive impactful architecture,8,19,C0013
+C0075,Extended non-volatile workforce,8,13,C0058
+C0076,User-friendly empowering open system,4,30,C0025
+C0077,Face-to-face mission-critical matrices,7,21,C0049
+C0078,Synchronized client-driven portal,3,31,C0049
+C0079,Cross-platform systematic contingency,5,6,C0027
+C0080,Synergized executive paradigm,2,10,C0048
+C0081,Re-engineered directional encoding,2,34,C0014
+C0082,Public-key multimedia infrastructure,7,25,C0072
+C0083,Focused next generation application,6,38,C0063
+C0084,Reduced even-keeled knowledgebase,2,31,C0035
+C0085,Synergistic disintermediate workforce,3,4,C0039
+C0086,Synchronized global toolset,6,23,C0007
+C0087,Down-sized explicit intranet,3,10,C0045
+C0088,Team-oriented regional task-force,8,16,C0040
+C0089,Focused even-keeled archive,3,31,C0061
+C0090,Reverse-engineered asymmetric knowledge user,9,30,C0082
+C0091,Open-source global functionalities,6,16,C0088
+C0092,Managed coherent methodology,3,14,C0034
+C0093,Devolved zero tolerance initiative,6,27,C0046
+C0094,Universal explicit firmware,3,28,C0003
+C0095,Triple-buffered real-time policy,9,12,C0014
+C0096,Customizable directional help-desk,1,21,C0006
+C0097,User-friendly maximized algorithm,7,9,C0014
+C0098,Horizontal responsive core,9,19,C0001
+C0099,Digitized client-driven software,8,32,C0003
+C0100,Horizontal clear-thinking model,3,27,C0090
+C0101,Total client-server moratorium,2,28,C0069
+C0102,Operative bifurcated productivity,1,22,C0095
+C0103,Extended fresh-thinking ability,4,26,C0022
+C0104,Face-to-face explicit productivity,8,7,C0040
+C0105,Universal human-resource support,6,19,C0099
+C0106,Open-architected global function,9,17,C0030
+C0107,Business-focused composite core,8,36,C0071
+C0108,Visionary system-worthy artificial intelligence,3,36,C0003
+C0109,Monitored incremental infrastructure,5,6,C0057
+C0110,Adaptive object-oriented methodology,4,3,C0086
+C0111,Pre-emptive web-enabled analyzer,9,9,C0051
+C0112,Managed reciprocal knowledgebase,6,16,C0036
+C0113,Sharable motivating productivity,8,12,C0060
+C0114,Grass-roots disintermediate portal,5,9,C0025
+C0115,Sharable full-range attitude,1,9,C0009
+C0116,Persevering bandwidth-monitored middleware,5,2,C0022
+C0117,Organic stable product,7,38,C0041
+C0118,Fully-configurable bottom-line interface,6,9,C0114
+C0119,Multi-channeled empowering knowledge user,8,4,C0059
+C0120,Inverse well-modulated definition,3,31,C0079
+C0121,Optimized bottom-line forecast,9,1,C0023
+C0122,Extended homogeneous concept,9,3,C0120
+C0123,Robust local solution,3,35,C0048
+C0124,Synergistic secondary ability,2,22,C0097
+C0125,Reactive hybrid policy,7,17,C0003
+C0126,Vision-oriented motivating hub,3,5,C0096
+C0127,Managed discrete moratorium,1,8,C0113
+C0128,Monitored dedicated Graphical User Interface,1,29,C0020
+C0129,Integrated well-modulated pricing structure,4,1,C0023
+C0130,Business-focused regional core,5,7,C0003
+C0131,Customizable grid-enabled process improvement,7,10,C0003
+C0132,Open-architected regional policy,1,34,C0070
+C0133,Virtual transitional website,7,11,C0104
+C0134,Secured uniform installation,3,4,C0020
+C0135,Progressive object-oriented policy,6,27,C0105
+C0136,Extended static productivity,7,18,C0093
+C0137,Business-focused systemic success,3,24,C0026
+C0138,Exclusive coherent artificial intelligence,4,18,C0126
+C0139,Progressive eco-centric support,8,31,C0011
+C0140,Triple-buffered multi-tasking encryption,2,25,C0094
+C0141,Profit-focused 4thgeneration hierarchy,1,27,C0086
+C0142,Diverse client-server flexibility,3,40,C0012
+C0143,Open-architected local firmware,8,13,C0043
+C0144,Future-proofed mission-critical database,7,31,C0141
+C0145,Team-oriented incremental knowledgebase,8,4,C0035
+C0146,Compatible system-worthy projection,7,3,C0039
+C0147,Operative transitional leverage,1,38,C0013
+C0148,Organic asynchronous support,2,21,C0101
+C0149,Future-proofed value-added hub,5,1,C0058
+C0150,Intuitive systematic collaboration,5,31,C0018
+C0151,Mandatory didactic access,7,8,C0134
+C0152,Inverse dedicated Local Area Network,9,35,C0128
+C0153,Polarized demand-driven concept,4,14,C0137
+C0154,Multi-tiered bi-directional neural-net,9,13,C0026
+C0155,Virtual static matrices,5,39,C0048
+C0156,Managed fault-tolerant open architecture,9,30,C0062
+C0157,Proactive actuating model,1,19,C0068
+C0158,Function-based real-time analyzer,9,38,C0127
+C0159,Visionary bottom-line standardization,4,30,C0111
+C0160,Function-based heuristic software,8,13,C0013
+C0161,Intuitive maximized customer loyalty,9,20,C0110
+C0162,Organic asymmetric collaboration,2,18,C0085
+C0163,Automated didactic alliance,6,35,C0101
+C0164,Innovative interactive groupware,1,5,C0034
+C0165,Reverse-engineered incremental middleware,7,32,C0153
+C0166,Mandatory interactive parallelism,5,9,C0082
+C0167,Networked 6thgeneration monitoring,3,31,C0142
+C0168,Versatile systematic software,2,34,C0090
+C0169,Operative reciprocal hub,5,6,C0055
+C0170,Visionary secondary success,3,32,C0031
+C0171,Organic human-resource pricing structure,7,39,C0018
+C0172,Realigned coherent installation,8,35,C0111
+C0173,Upgradable next generation solution,3,24,C0009
+C0174,Cross-group zero tolerance standardization,4,28,C0091
+C0175,Team-oriented optimal project,2,27,C0069
+C0176,Customizable stable Graphical User Interface,1,19,C0068
+C0177,Ameliorated homogeneous analyzer,8,14,C0073
+C0178,Innovative directional infrastructure,3,38,C0153
+C0179,Managed composite moratorium,2,2,C0099
+C0180,Ameliorated reciprocal groupware,9,34,C0143
+C0181,Stand-alone neutral synergy,9,40,C0027
+C0182,Up-sized didactic analyzer,5,33,C0118
+C0183,Future-proofed upward-trending Graphic Interface,4,40,C0028
+C0184,Intuitive global functionalities,9,36,C0148
+C0185,Ergonomic foreground data-warehouse,1,36,C0095
+C0186,Future-proofed intangible website,7,39,C0151
+C0187,Profit-focused clear-thinking ability,6,21,C0125
+C0188,Implemented tangible flexibility,7,17,C0127
+C0189,Cross-platform client-server knowledgebase,7,17,C0105
+C0190,Persevering responsive policy,8,39,C0166
+C0191,Monitored asynchronous intranet,8,9,C0159
+C0192,Monitored empowering parallelism,3,14,C0016
+C0193,Persevering coherent application,8,20,C0151
+C0194,Ergonomic demand-driven budgetary management,4,24,C0013
+C0195,Multi-tiered logistical product,9,34,C0042
+C0196,Up-sized bandwidth-monitored initiative,3,31,C0126
+C0197,Reactive dedicated moratorium,1,26,C0123
+C0198,Inverse systematic superstructure,6,17,C0057
+C0199,Digitized attitude-oriented emulation,9,23,C0125
+C0200,Networked logistical encoding,6,24,C0177
