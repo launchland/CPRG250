@@ -1,4 +1,4 @@
-# CPRG250 - Database Design and Programming
+# Student Information System
 
 Database Modelling and Reporting Project 
 Youtube Demo: https://youtu.be/1lK29jInRJY
